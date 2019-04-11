@@ -1,1 +1,2 @@
-# Trifid Open Source
+# Initial page
+
