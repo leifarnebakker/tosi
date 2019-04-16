@@ -1,8 +1,4 @@
----
-description: Tools for strategy work
----
-
-# Swot
+# Swot-analyse
 
 ## Swot-analyse
 
@@ -13,9 +9,5 @@ description: Tools for strategy work
 * [https://www.businessnewsdaily.com/4245-swot-analysis.html](https://www.businessnewsdaily.com/4245-swot-analysis.html)
 * [https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis](https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis)
 
-### Files
-
-{% file src="../../.gitbook/assets/en\_template.-swot-analysis.xlsx" %}
-
-
+## Files
 

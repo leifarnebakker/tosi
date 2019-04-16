@@ -8,8 +8,9 @@
 
 ## Strategy
 
-* [Swot](strategy/tools/README.md)
-  * [Verktøy](strategy/tools/verktoy.md)
+* [Verktøy](strategy/verktoy/README.md)
+  * [Swot-analyse](strategy/verktoy/swot-analyse.md)
+* [Forretningsmodeller](strategy/forretningsmodeller.md)
 
 ## Prosjektledelse
 
