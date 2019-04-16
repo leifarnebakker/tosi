@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Organisasjonsutvikling
+
+* [Endringsledelse](organisasjonsutvikling-1/endringsledelse.md)
+
 ## Strategy
 
 * [Swot](strategy/tools/README.md)
@@ -10,9 +14,12 @@
 ## Prosjektledelse
 
 * [Veileder \#1](prosjektledelse/veileder-1.md)
-* [Veileder \#2](prosjektledelse/veileder-2.md)
 
-## Organisasjonsutvikling
+## Sourcing
 
-* [Endringsledelse](organisasjonsutvikling-1/endringsledelse.md)
+* [Veileder \#1](sourcing/veileder-1.md)
+
+## Arkitektur
+
+* [Veileder \#1](arkitektur/veileder-1.md)
 
